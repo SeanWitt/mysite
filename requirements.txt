@@ -7,7 +7,7 @@ bdist-mpkg==0.5.0
 bonjour-py==0.3
 cffi==1.12.3
 configparser==3.5.0
-cryptography==2.7
+cryptography==3.2
 Django==1.11.22
 django-taggit==0.24.0
 enum34==1.1.6
